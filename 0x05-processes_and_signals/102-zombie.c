@@ -22,7 +22,7 @@ int infinite_while(void)
  *
  * Return: Always 0.
  */
- int main(void)
+int main(void)
 {
 	int i;
 
