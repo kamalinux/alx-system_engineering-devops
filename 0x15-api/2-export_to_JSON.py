@@ -3,9 +3,9 @@
 Request from API; Return TODO list progress given employee ID
 Export this data to JSON
 """
-import sys
 import json
 import requests
+import sys
 
 
 def to_json():
